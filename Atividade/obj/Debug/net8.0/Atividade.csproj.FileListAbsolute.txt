@@ -1,0 +1,14 @@
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\bin\Debug\net8.0\Atividade.exe
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\bin\Debug\net8.0\Atividade.deps.json
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\bin\Debug\net8.0\Atividade.dll
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\bin\Debug\net8.0\Atividade.pdb
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\obj\Debug\net8.0\Atividade.dll
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\obj\Debug\net8.0\refint\Atividade.dll
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\obj\Debug\net8.0\Atividade.pdb
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+D:\Biblioteca\Documentos\Curso Senai FullStack\_SENAI\atividade\obj\Debug\net8.0\ref\Atividade.dll
